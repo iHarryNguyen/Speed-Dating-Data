@@ -1,0 +1,11 @@
+Goals:
+
+Predict the success rate for individuals based on:
+- Career
+- Age
+- Sex
+- Ethnicity
+
+Business side of speed dating:
+- Compare the average age of individuals that use speed dating 
+- See the citys with average age or whatever specifications based on this data and see if our business will be successful
