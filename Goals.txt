@@ -6,6 +6,9 @@ Predict the success rate for individuals based on:
 - Sex
 - Ethnicity
 
-Business side of speed dating:
-- Compare the average age of individuals that use speed dating 
-- See the citys with average age or whatever specifications based on this data and see if our business will be successful
+Questions to answer:
+
+1) What is the average desired age differential based on male/female and race.
+
+2)Based on profession, who would make the decision when it comes to matching.
+
