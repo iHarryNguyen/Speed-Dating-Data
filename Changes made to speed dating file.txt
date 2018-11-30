@@ -1,0 +1,2 @@
+1. Changed the met, decision, decision_o and match from 0 to No and 1 to Yes.
+2. Deleted rows with a bunch of missing info
